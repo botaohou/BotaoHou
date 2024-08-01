@@ -1,7 +1,6 @@
 # Hello, I'm [Botao Hou] 👋
 
 ## 🌱 I'm currently learning ...
-- Embedded System (Realtime & Linux)
 - Moblie robot & Machine Learning & robot vision
 - Software development
 
