@@ -1,7 +1,7 @@
 # Hello, I'm [Botao Hou] 👋
 
 ## 🌱 I'm currently learning ...
-- Moblie robot & Machine Learning & robot vision
+- Moblie robot & Machine Learning & Path planning
 - Software development
 
 ## 📫 How to reach me
